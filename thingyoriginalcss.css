@@ -28,7 +28,7 @@ html, body{
 #footerWrapper{
 	position: fixed;
 	width: 100%;
-	height: 80px;
+	height: 60px;
 	background-color: #7A8780;
 	bottom: 0px;
 	left: 0px;
@@ -49,7 +49,7 @@ html, body{
 
 #fancyTab{
 	position: fixed;
-	bottom: 80px;
+	bottom: 60px;
 	width: 100%;
 	height: 20px;
 }
