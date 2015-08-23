@@ -12,6 +12,8 @@ html, body{
 	position: relative;
 	top: 50%;
 	transform: translateY(-50%);
+	font-size: 40px;
+	color:white; 
 }
 
 #headerWrapper{
@@ -94,61 +96,22 @@ html, body{
 	margin-right: 20px;
 }
 
-#myPic2{
-	width: 370px;
-	height:270px;
-	top:400px;
-	left:10px;
-	margin-left: 20px;
-	margin-bottom: 20px;
-	margin-right: 20px;
+.row img {
+	width:100%;
+	margin: 0px;
+	padding: 0px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: white;
+	border-radius: 2px;
 }
-#myPic3{
-	width: 370px;
-	height:270px;
-	top:400px;
-	left:340px;
-	margin-left: 20px;
-	margin-bottom: 20px;
-	margin-right: 20px;
-}
-#myPic4{
-	width: 370px;
-	height:270px;
-	top:400px;
-	left:670px;
-	margin-left: 20px;
-	margin-bottom: 20px;
-	margin-right: 20px;
-}
-#myPic5{
-	width: 370px;
-	height:270px;
-	top:400px;
-	left:1000px;
-	margin-left: 20px;
-	margin-bottom: 20px;
-	margin-right: 20px;
 
+.row {
+	margin: 15px 0px;
 }
-#mypic6{
-	width: 370px;
-	height:270px;
-	top:400px;
-	left:340px;
-	margin-left: 20px;
-	margin-bottom: 20px;
-	margin-right: 20px;
-}
-#mypic7{
-	width: 370px;
-	height:270px;
-	top:400px;
-	left:670px;
-	margin-left: 20px;
-	margin-bottom: 20px;
-	margin-right: 20px;
-}
+
+
+
 #header{
 	left:48%;
 	top:10%;
