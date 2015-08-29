@@ -103,6 +103,10 @@ html, body{
 	border-radius: 2px;
 }
 
+.row div{
+	margin:15px 0px 0px 0px;
+}
+
 .row {
 	margin: 15px 0px;
 }
@@ -139,4 +143,4 @@ html, body{
 	margin-bottom: 20px;
 	margin-right: 20px;
 	margin-top: 20px;
-	}
+}
