@@ -85,7 +85,7 @@ html, body{
 	border-right: 20px solid transparent;
 }
 
-#myPic{
+.myPic{
 	float: right;
 	width: 600px;
 	margin-left: 20px;
@@ -108,19 +108,20 @@ html, body{
 }
 
 
-#header{
+.header{
 	left:48%;
 	top:10%;
 	font-size:20px;
 	font-family:verdana;
 	margin-left:20px;"
 }
-#paragraph{
+.paragraph{
 	left:48%;
 	top:10%;
 	font-size:15px;
 	font-family:verdana;
 	margin-left:20px;
+	margin-right: 20px;
 
 }
 #header2{
@@ -130,3 +131,12 @@ html, body{
 	font-family:verdana;
 	margin-left:20px;"
 }
+#myPic2{
+	float: right;
+	width: 300px;
+	height: 130px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+	}
